@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraisen)
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraisen)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraisen)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miraisen)
+ ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miraisen)
+ https://stats.justsong.cn/api/leetcode?username=seaside soliloquies&cn=true
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DaybreakFrontline;一生僕らは生きて征け)
