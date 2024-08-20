@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🍊Little cat living in Orangestar
+- 🐱Currently learning web, Java and Javascript
+- 🎄Any instruction is welcomed
+
+
 <!--
 **miraisen/miraisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
