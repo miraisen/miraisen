@@ -2,7 +2,7 @@
 
 - 🍊Little cat living in Orangestar
 - 🐱Currently learning web, Java and Javascript
-- 🔦Any instruction is welcomed!
+- 🔦Any instruction is welcome!
 
 
 <!--
